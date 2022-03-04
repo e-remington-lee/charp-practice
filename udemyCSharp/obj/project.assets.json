@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\erikl\\.nuget\\packages\\": {}
+    "C:\\Users\\erikl\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Software\\CSharp\\udemyCSharp\\udemyCSharp\\udemyCSharp.csproj",
+      "projectUniqueName": "D:\\csharp\\charp-practice\\udemyCSharp\\udemyCSharp.csproj",
       "projectName": "udemyCSharp",
-      "projectPath": "E:\\Software\\CSharp\\udemyCSharp\\udemyCSharp\\udemyCSharp.csproj",
+      "projectPath": "D:\\csharp\\charp-practice\\udemyCSharp\\udemyCSharp.csproj",
       "packagesPath": "C:\\Users\\erikl\\.nuget\\packages\\",
-      "outputPath": "E:\\Software\\CSharp\\udemyCSharp\\udemyCSharp\\obj\\",
+      "outputPath": "D:\\csharp\\charp-practice\\udemyCSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\erikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,6 +60,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.14, 5.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

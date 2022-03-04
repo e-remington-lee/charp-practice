@@ -1,0 +1,16 @@
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.exe
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.deps.json
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.runtimeconfig.json
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.runtimeconfig.dev.json
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.dll
+D:\csharp\charp-practice\udemyCSharp\bin\Debug\net5.0\udemyCSharp.pdb
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.csproj.AssemblyReference.cache
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.AssemblyInfoInputs.cache
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.AssemblyInfo.cs
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.csproj.CoreCompileInputs.cache
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.dll
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\refint\udemyCSharp.dll
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.pdb
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\udemyCSharp.genruntimeconfig.cache
+D:\csharp\charp-practice\udemyCSharp\obj\Debug\net5.0\ref\udemyCSharp.dll

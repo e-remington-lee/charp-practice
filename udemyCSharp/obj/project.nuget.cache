@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Rg7rwUJ2WdXBSG8XHTENOKzRdugAqKDx78jA2t42WWqomJdbuYCxDkNy+q3ncQ1srKpq/8OjlKYODxyoKiKuBw==",
+  "dgSpecHash": "5ZYIZl7ELYGhOxdaXpY6VUVZlzFS9Rgu786JnaFTZwfl+TQJ9i2q/tdcEflVxBozZbgIdp6SHTcj25ay4xHd8Q==",
   "success": true,
-  "projectFilePath": "E:\\Software\\CSharp\\udemyCSharp\\udemyCSharp\\udemyCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\csharp\\charp-practice\\udemyCSharp\\udemyCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\erikl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erikl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erikl\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
